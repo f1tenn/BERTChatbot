@@ -1,0 +1,1 @@
+Currently it is far from perfect, in the future I will improve the generation of answers rather than if-elif-else, create a separate language model or templates, handle words not in the vocabulary (OOV), and in the future add context saving:)
